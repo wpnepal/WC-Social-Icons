@@ -1,0 +1,19 @@
+.wcsi-each-icon {
+    display: inline-block;
+}
+.wcsi-each-icon a {
+    width: 30px;
+    height:30px;
+    display: block;
+    background: black;
+    color: white;
+    text-align: center;
+    margin-right: 10px;
+}
+.wcsi-each-icon a:hover {
+    background: #E3633B;
+    color:white;
+}
+.wcsi-each-icon a:visited,.wcsi-each-icon a:focus{
+    color:white;
+}

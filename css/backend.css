@@ -1,0 +1,74 @@
+.wcsi-header {
+    background: #56578C;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px 5px 0 0;
+}
+.wcsi-settings-wrap {
+    min-height: 500px;
+    background: white;
+    box-shadow: 0 0 2px;
+    padding: 10px;
+    margin-top: 20px;
+}
+.wcsi-each-icon-wrap {
+    box-shadow: 0 0 2px;
+    padding: 20px 10px;
+    margin: 20px 10px;
+    width: 50%;
+    background: white;
+}
+.wcsi-each-icon-wrap input[type="text"] {
+    width: 80%;
+}
+span.wcsi-drag-arrow {
+    border-radius: 50%;
+    box-shadow: 0 0 2px;
+    padding: 2px 5px;
+    margin-left: -20px;
+    margin-right: 10px;
+    background: white;
+    cursor: pointer;
+}
+.wcsi-inline-block{display:inline-block;}
+.wcsi-status-wrap {
+    width: 100px;
+    margin-left: 20px;
+}
+.wcsi-url-wrap {
+    width: 58%;
+    margin-left: 20px;
+}
+span.wcsi-icon {
+    display: inline-block;
+    width: 70px;
+    font-weight:bold;
+}
+.wcsi-message{    background: #fff;
+                  border-left: 4px solid #fff;
+                  -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+                  box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+                  margin: 5px 15px 2px;
+                  padding: 10px 12px;
+                  border-color: #7ad03a;
+                  margin: 5px 0 15px;
+                  padding-right: 38px;
+                  position: relative;
+}
+.wpsi-form-submit-wrap {
+    padding: 10px;
+}
+span.wcsi-icon-preview {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background: black;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.5;
+    padding-top: 3px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
